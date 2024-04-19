@@ -6,6 +6,7 @@ html{
     text-align: center;
     background-color: whitesmoke;
     width: 500px;
+    margin-left: 600px;
     
 }
 #ab{
@@ -16,37 +17,44 @@ html{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
     
 }
 #c{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
 }
 #d{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
 }
 #e{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
 }
 #f{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
 }
 #g{
     background-color: whitesmoke;
     height: 90px;
     width: 500px;
+    margin-left: 600px;
 }
 
-button{
+#bbc{
     background-color: violet;
     color: white;
+    margin-left: 600px;
 }
 
 
