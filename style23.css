@@ -1,0 +1,52 @@
+html{
+    background-color: rgb(240, 235, 248);
+}
+
+#a{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 500px;
+    
+}
+#ab{
+    color: rgb(93, 93, 248);
+}
+
+#b{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+    
+}
+#c{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+}
+#d{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+}
+#e{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+}
+#f{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+}
+#g{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 500px;
+}
+
+button{
+    background-color: violet;
+    color: white;
+}
+
+
